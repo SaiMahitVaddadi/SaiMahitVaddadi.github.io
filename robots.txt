@@ -33,4 +33,4 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
-Sitemap: https://mahitvaddadi.com/sitemap-index.xml
+Sitemap: https://saimahitvaddadi.github.io/sitemap-index.xml

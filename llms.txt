@@ -1,5 +1,5 @@
 # Mahit Vaddadi — AI Scientist & Computational Chemist
-# https://mahitvaddadi.com
+# https://saimahitvaddadi.github.io
 
 ## Identity
 
@@ -35,7 +35,7 @@ the BioTDR LillyPROP Platform Team. He holds a PhD in Chemical Engineering from 
 ## Contact
 
 - Email: mahit@vaddadi.ai
-- Consulting: https://mahitvaddadi.com/consulting
+- Consulting: https://saimahitvaddadi.github.io/consulting
 - GitHub: https://github.com/svaddadi
 
 ## Site Map
