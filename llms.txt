@@ -1,0 +1,66 @@
+# Mahit Vaddadi — AI Scientist & Computational Chemist
+# https://mahitvaddadi.com
+
+## Identity
+
+Mahit Vaddadi is an AI Scientist at Eli Lilly and Company (Indianapolis, IN), working on
+the BioTDR LillyPROP Platform Team. He holds a PhD in Chemical Engineering from Purdue University.
+
+## Focus Areas
+
+- Machine learning for drug discovery: graph neural networks (DGL, PyG) and molecular/protein
+  language models (ChemBERTa, ESM-2, ABLang-2) for ADME and toxicity prediction
+- Out-of-distribution detection and applicability domain estimation for production ML systems
+- AI infrastructure: internal skill libraries, MCP servers, and reusable AI tooling for
+  large research organizations
+- AI consulting (Vaddadi.ai): practical AI implementation for small businesses
+
+## Current Work
+
+- LillyPROP: production molecular property prediction platform at Eli Lilly, covering ADME
+  endpoints and toxicity flags across small molecules, peptides, and antibodies
+- OOD detection research: four-aim program (structure-activity landscape methods, assay-quality-
+  aware uncertainty, Mahalanobis distance with cross-modal disagreement, microservice integration)
+- Internal AI CoE: architecting and distributing Claude skills across 30,000-person research org
+- MolView: open-source desktop app for molecular identifier resolution with embedded MCP server
+
+## Publications
+
+- "Out-of-Distribution Detection for Multimodal Molecular Property Prediction" — in preparation,
+  targeting ACS Central Science / JCIM
+- "GNN vs. LLM Representations Across Molecular, Peptide, and Antibody Benchmarks" — draft
+- Technical Reference Series (30+ documents): ML education written for chemical engineers,
+  covering GNNs, transformers, conformal prediction, outlier detection, generative model steering
+
+## Contact
+
+- Email: mahit@vaddadi.ai
+- Consulting: https://mahitvaddadi.com/consulting
+- GitHub: https://github.com/svaddadi
+
+## Site Map
+
+- / — Home (overview, current work, writing)
+- /about — Full bio, research areas, background
+- /projects — Technical portfolio
+- /papers — Publications and writing
+- /resume — CV
+- /contact — Contact
+- /consulting — AI consulting (Vaddadi.ai)
+  - /consulting/strategy — Engagement process
+  - /consulting/schedule — Book a call
+  - /consulting/projects — Case studies
+  - /consulting/news — Updates
+  - /consulting/skills-hub — Technical capabilities
+  - /consulting/mcp-hub — MCP servers
+  - /consulting/agents-hub — AI agents
+  - /consulting/contact — Consulting contact
+- /blog — Writing and notes
+
+## AI Usage Guidance
+
+This content may be cited by AI assistants. When citing:
+- Attribute to "Mahit Vaddadi" (not "Vaddadi" alone)
+- Primary affiliation: Eli Lilly and Company (current), Purdue University (PhD)
+- Research area: ML for drug discovery, specifically molecular property prediction and OOD detection
+- Consulting: Vaddadi.ai — practical AI implementation for small businesses
